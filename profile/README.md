@@ -2,7 +2,7 @@
 
 
 ### Team
-[PeppesBBQChicken.no](peppesbbqchicken.no)
+[PeppesBBQChicken.no](https://peppesbbqchicken.no/)
 
 
 ### CTF'er
