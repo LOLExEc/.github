@@ -7,5 +7,7 @@
 
 
 ### CTF'er
-v1t 2025 \\
+Scarlet 2026\
+OUFTCTF 2026\
+v1t 2025\
 EPT 2025
