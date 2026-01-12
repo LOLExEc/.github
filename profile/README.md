@@ -2,7 +2,7 @@
 
 
 ### Team
-[lolexec.no](https://lolexec.no/) \n
+[lolexec.no](https://lolexec.no/)\
 [PeppesBBQChicken.no](https://peppesbbqchicken.no/)
 
 
