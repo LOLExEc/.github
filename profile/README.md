@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=180&section=header&text=LolExec&fontSize=56&fontColor=ffffff&fontAlignY=38" alt="LolExec banner" />
-</p>
-
-<p align="center">
   <a href="https://github.com/LOLExEc"><img src="https://img.shields.io/badge/org-LOLExEc-111111?style=for-the-badge" alt="LOLExEc on GitHub"></a>
   <a href="https://lolexec.no/"><img src="https://img.shields.io/badge/site-lolexec.no-111111?style=for-the-badge" alt="lolexec.no"></a>
   <a href="https://peppesbbqchicken.no/"><img src="https://img.shields.io/badge/site-peppesbbqchicken.no-111111?style=for-the-badge" alt="peppesbbqchicken.no"></a>
