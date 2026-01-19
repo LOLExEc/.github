@@ -1,10 +1,10 @@
 # LolExec
 
-<p align="center">
+<!--<p align="center">
   <img src="LoLExec.png" alt="LolExec logo" width="160" />
-</p>
+</p> -->
 
-<p>
+<p align="center">
   <img src="lolexecCube.gif" alt="lolexec cube spinning gif" width="160" />
 </p>
 
