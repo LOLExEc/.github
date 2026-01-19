@@ -4,6 +4,10 @@
   <img src="LoLExec.png" alt="LolExec logo" width="160" />
 </p>
 
+<p>
+  <img src="lolexecCube.gif" alt="lolexec cube spinning gif" width="160" />
+</p>
+
 <p align="center">
   <a href="https://github.com/LOLExEc"><img src="https://img.shields.io/badge/org-LOLExEc-111111?style=for-the-badge" alt="LOLExEc on GitHub"></a>
   <a href="https://lolexec.no/"><img src="https://img.shields.io/badge/site-lolexec.no-111111?style=for-the-badge" alt="lolexec.no"></a>
