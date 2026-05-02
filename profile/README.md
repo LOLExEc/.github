@@ -28,6 +28,7 @@ We build tools, publish writeups, and bring good vibes to the scoreboard.
 - Writeup templates and tooling
 - Challenge infra and deployment helpers
 - Internal cheat sheets and training labs
+- VoiceEXEC
 
 ## CTF Timeline
 - Scarlet 2026
